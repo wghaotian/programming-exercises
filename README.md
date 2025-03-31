@@ -3,7 +3,10 @@ Programming Exercises
 
 [![Running Test in CI](https://github.com/FZJ-PGI-12/programming-exercises/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/FZJ-PGI-12/programming-exercises/actions/workflows/python-package-conda.yml)
 
-Programming exercises for the [lecture on Near-term Quantum Computing in the summer term 2024 at RWTH Aachen](https://www.fz-juelich.de/en/pgi/pgi-12/activities/teaching/summer-term-2024/near-term-quantum-computing)
+Programming exercises for the lectures of Tobias Stollenwerk
+
+ - [Summer term 2025 - Lecture on Near-term Quantum Computing in at RWTH Aachen](https://www.fz-juelich.de/en/pgi/pgi-12/activities/teaching/summer-term-2025/near-term-quantum-computing) see [folder](./2025-summer-rwth/)
+ - [Summer term 2024 - Lecture on Near-term Quantum Computing in at RWTH Aachen](https://www.fz-juelich.de/en/pgi/pgi-12/activities/teaching/summer-term-2024/near-term-quantum-computing) [folder](./2024-summer-rwth/)
 
 Setup environment
 -----------------
@@ -20,7 +23,7 @@ Setup environment
  - Clone this repository and enter the directory
 
        git clone https://github.com/FZJ-PGI-12/programming-exercise.git
-       cd programming-exercise
+       cd programming-exercise/<lecture-folder>
 
  - Install the dependencies
 
@@ -37,6 +40,7 @@ Tests
 
 Test your environment with
 
+    cd <lecture-folder>
     pytest --nbval-lax *.ipynb
 
 There should be no errors
