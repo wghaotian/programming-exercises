@@ -5,8 +5,13 @@ Programming Exercises
 
 Programming exercises for the lectures of Tobias Stollenwerk
 
+Current lecture
+
  - [Summer term 2025 - Lecture on Near-term Quantum Computing in at RWTH Aachen](https://www.fz-juelich.de/en/pgi/pgi-12/activities/teaching/summer-term-2025/near-term-quantum-computing) see [folder](./2025-summer-rwth/)
- - [Summer term 2024 - Lecture on Near-term Quantum Computing in at RWTH Aachen](https://www.fz-juelich.de/en/pgi/pgi-12/activities/teaching/summer-term-2024/near-term-quantum-computing) [folder](./2024-summer-rwth/)
+
+Archive
+
+ - [Summer term 2024 - Lecture on Near-term Quantum Computing in at RWTH Aachen](https://www.fz-juelich.de/en/pgi/pgi-12/activities/teaching/summer-term-2024/near-term-quantum-computing) see [folder](./2024-summer-rwth/)
 
 Setup environment
 -----------------
